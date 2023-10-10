@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Manuel 👋</h1>
+<h1 align="center" color="red" >Hola, soy Manuel 👋</h1>
 <h2>Sobre mi</h2>
 <p>Soy un estudiante entusiasta que está emocionado por aprender y crecer en el mundo del desarrollo de software. Me apasiona explorar nuevas tecnologías y crear soluciones innovadoras.<br>
 JAVA | JAVASCRIPT | HTML | CSS | MySQL</p>
