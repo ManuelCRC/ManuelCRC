@@ -5,7 +5,7 @@ JAVA | JAVASCRIPT | HTML | CSS | MySQL</p>
 
 <h2>Mis Hobbies</h2>
 <ul>
-	<li>🎵 Escuchar música: La música es mi compañera constante, y disfruto de una amplia variedad de géneros. Echa un vistazo a mi perfil de Apple Music <a href="https://music.apple.com/profile/manuelrb">aquí</a>.</li>
+	
   <li>🎮 Jugar videojuegos: Me encanta sumergirme en aventuras y competir en línea.
   <li>🍿 Ver películas: Disfruto de una buena película para relajarme y entretenerme.</li>
 </ul>
